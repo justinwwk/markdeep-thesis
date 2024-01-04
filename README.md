@@ -1,6 +1,6 @@
 # markdeep-thesis
 
-*Write your (under)graduate thesis with [Markdeep](https://casual-effects.com/markdeep/) and typeset it right in your browser.*
+*Write **thesis style report** with [Markdeep](https://casual-effects.com/markdeep/) and typeset it right in your browser.*
 
 * Supports **all features [Markdeep](https://casual-effects.com/markdeep/) has to offer** – diagrams, math, fancy quotes, footnotes, citations, admonitions, and all the standard Markdown stuff.
 * Fills in **page numbers**, generates a nice-looking **table of contents** and supports **footnotes** courtesy of [Bindery](https://evanbrooks.info/bindery/).
